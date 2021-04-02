@@ -18,3 +18,7 @@ Might need to do:
 ```
 ZSH_DISABLE_COMPFIX="true"
 ```
+
+## tmux
+
+Run `./tmux_setup.sh`.
