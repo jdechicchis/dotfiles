@@ -2,11 +2,10 @@
 
 ## NVIM Setup
 
-Install Neovim.
+Install Neovim. Clone this repo to `~/dev`.
 
 Symlink:
-- `ln -s ~/dotfiles/nvim/init.vim init.vim`
-- `ln -s ~/dotfiles/nvim/coc-settings.json coc-settings.json`
+- `ln -s ~/dev/dotfiles/nvim ./nvim`
 
 ## `zsh` Setup
 
